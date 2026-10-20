@@ -1,0 +1,4 @@
+Optimized image assets for the website.
+- nikhil-portrait.webp: formal portrait chosen for the homepage hero; cropped to a portrait frame and converted to WebP.
+- nikhil-character.webp: supplied illustrated character used in the About area.
+All images were provided by Nikhil in this conversation.

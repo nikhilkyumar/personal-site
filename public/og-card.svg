@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f5ef"/>
+  <circle cx="1060" cy="70" r="260" fill="#e6e9d8"/>
+  <circle cx="1060" cy="70" r="190" fill="none" stroke="#aeb59a" stroke-width="1.5"/>
+  <circle cx="1060" cy="70" r="120" fill="none" stroke="#aeb59a" stroke-width="1.5"/>
+  <path d="M0 530 H1200" stroke="#dedbd2" stroke-width="2"/>
+  <text x="72" y="90" fill="#bd5235" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="5">NIKHIL KUMAR · PERSONAL WEBSITE</text>
+  <text x="72" y="228" fill="#20231f" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="67">I build things,</text>
+  <text x="72" y="310" fill="#20231f" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="67">solve problems,</text>
+  <text x="72" y="392" fill="#20231f" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="67">and keep learning.</text>
+  <text x="72" y="475" fill="#62665c" font-family="Arial, Helvetica, sans-serif" font-size="25">Software · AI/ML · Data · Competitive Programming</text>
+  <text x="72" y="580" fill="#62665c" font-family="Arial, Helvetica, sans-serif" font-size="19">Greater Noida, India</text>
+</svg>

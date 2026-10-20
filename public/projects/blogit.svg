@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Original conceptual illustration for Blogit full-stack blogging project">
+  <rect width="900" height="560" rx="30" fill="#f0e9dd"/>
+  <circle cx="770" cy="94" r="150" fill="#e1d6c3" opacity=".7"/>
+  <rect x="46" y="46" width="808" height="468" rx="20" fill="#fbf8f1" stroke="#d4c6b2" stroke-width="2"/>
+  <rect x="46" y="46" width="808" height="64" rx="20" fill="#272923"/><path d="M46 85v25h808V85" fill="#272923"/>
+  <text x="78" y="86" fill="#fbf8f1" font-family="Georgia,serif" font-size="28" font-weight="700">blogit.</text><text x="729" y="82" fill="#d4cbb9" font-family="Arial,sans-serif" font-size="13">WRITE / READ</text>
+  <rect x="78" y="138" width="486" height="340" rx="13" fill="#f2ece1"/>
+  <text x="106" y="178" fill="#b75b3e" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">EDITOR'S NOTE</text>
+  <text x="106" y="224" fill="#242720" font-family="Georgia,serif" font-size="34" font-weight="700">Ideas deserve</text><text x="106" y="264" fill="#242720" font-family="Georgia,serif" font-size="34" font-weight="700">a place to land.</text>
+  <text x="106" y="300" fill="#777367" font-family="Arial,sans-serif" font-size="13">A structured publishing workflow.</text>
+  <rect x="106" y="330" width="422" height="1" fill="#d5c8b6"/>
+  <rect x="106" y="352" width="180" height="9" rx="4" fill="#cfc6b5"/><rect x="106" y="373" width="350" height="7" rx="3" fill="#dcd3c5"/><rect x="106" y="390" width="323" height="7" rx="3" fill="#dcd3c5"/><rect x="106" y="407" width="281" height="7" rx="3" fill="#dcd3c5"/>
+  <rect x="591" y="138" width="231" height="168" rx="13" fill="#fff" stroke="#ded6c8"/>
+  <text x="614" y="168" fill="#8b887e" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.5">CONTENT API</text><text x="614" y="199" fill="#30312b" font-family="Arial,sans-serif" font-size="16" font-weight="700">10+ REST routes</text>
+  <rect x="614" y="216" width="186" height="25" rx="5" fill="#ede8de"/><text x="626" y="233" fill="#615e53" font-family="monospace" font-size="11">POST /blogs</text>
+  <rect x="614" y="249" width="186" height="25" rx="5" fill="#e1e8d8"/><text x="626" y="266" fill="#4f6242" font-family="monospace" font-size="11">GET /blogs/:id</text>
+  <rect x="591" y="326" width="231" height="152" rx="13" fill="#dfd6c5"/>
+  <text x="614" y="356" fill="#706b5e" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.5">ARCHITECTURE</text>
+  <rect x="614" y="374" width="185" height="27" rx="6" fill="#f9f5ec"/><text x="706" y="392" text-anchor="middle" fill="#30312b" font-family="Arial,sans-serif" font-size="12">Routes → Controllers</text>
+  <rect x="614" y="412" width="185" height="27" rx="6" fill="#f9f5ec"/><text x="706" y="430" text-anchor="middle" fill="#30312b" font-family="Arial,sans-serif" font-size="12">Models → MongoDB</text>
+  <text x="78" y="496" fill="#8f887a" font-family="Arial,sans-serif" font-size="10">CONCEPTUAL PROJECT VISUAL · NOT A PRODUCT SCREENSHOT</text>
+</svg>

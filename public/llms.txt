@@ -1,0 +1,39 @@
+# Nikhil Kumar — Personal Website
+
+Nikhil Kumar is a Computer Science and Data Science student at GL Bajaj Institute of Technology and Management in Greater Noida, India (B.Tech 2023–2027). This website is a personal portfolio and an evolving home for projects, learning, and connection.
+
+## Main topics
+- Programming with Python, Java, C/C++, JavaScript, SQL, HTML/CSS, and R
+- Application development with React, Node.js, Express, Next.js, FastAPI, and Flutter
+- Machine learning and data tools including TensorFlow, OpenCV, Pandas, NumPy, XGBoost, and Power BI
+- Software engineering and full-stack development
+- AI / machine learning and computer vision
+- Data analytics and football analytics
+- C++ and competitive programming
+- Learning through projects and technical exploration
+
+## Selected projects
+- GreenEye: CNN-based plant-disease image classification across multiple crop datasets; résumé-reported classification accuracy is 92%; application stack includes TensorFlow, FastAPI, TensorFlow Lite, OpenCV, MongoDB, React, and Flutter.
+- Blogit: full-stack blogging platform with role-based authentication, session handling, authorization, 10+ REST APIs, MVC architecture, validation, pagination, and centralized error handling.
+- FootyPundit: exploratory football analytics project using performance, workload and transfer-related data to estimate market value and injury risk, combining outputs in a Player Investment Index and exploring signals through Power BI.
+- Psychoveda: an in-development psychology learning and counselling platform concept; not presented as production-ready.
+- Masterin7ways: creative React/Vite website experiment; current public repository status should be verified before linking.
+
+## Useful links
+- Home: /
+- Selected work: /#work
+- GitHub Lab: /#lab
+- Competitive programming: /#coding
+- About: /#about
+- Skills: /#skills
+- Interests: /#interests
+- Now: /#now
+- Contact: /#contact
+- GitHub: https://github.com/nikhilkyumar
+- LinkedIn: https://www.linkedin.com/in/nikhilkyumar/
+- Codeforces: https://codeforces.com/profile/nikhilkyumar
+- Codolio: https://codolio.com/profile/nikhilkyumar
+- Email: mailto:nikhilkumar.cout@gmail.com
+
+## Content notes
+Project visuals are conceptual illustrations unless explicitly stated otherwise. The 92% GreenEye metric is reported for the project datasets and is not a general performance guarantee. The project directory is refreshed from public GitHub metadata when the source project runs/builds. Current-focus text should be treated as an editable snapshot that may become stale.
