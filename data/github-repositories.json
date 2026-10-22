@@ -52,6 +52,19 @@
     "summary": "🏦 Gringotts SIP & Corpus Planning Calculator for Indian Investors Gringotts is a modern investment planning calculator built for Indian investors who want to understand how their existing investments, monthly SIPs, annual SIP inc"
   },
   {
+    "name": "personal-site",
+    "url": "https://github.com/nikhilkyumar/personal-site",
+    "description": "my persnal website/portfolio",
+    "language": "CSS",
+    "category": "Competitive programming",
+    "topics": [],
+    "updatedAt": "2026-10-20T13:00:50Z",
+    "archived": false,
+    "fork": false,
+    "prominence": "project",
+    "summary": "Nikhil Kumar — Personal Website A responsive, editorial-style personal website built with Next.js App Router, TypeScript, Tailwind CSS 4, and Lucide icons . It has two purposes: a clear portfolio for recruiters and a personal home"
+  },
+  {
     "name": "CampusHagrid",
     "url": "https://github.com/nikhilkyumar/CampusHagrid",
     "description": "Repository description not provided yet.",
