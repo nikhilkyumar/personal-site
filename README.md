@@ -1,3 +1,6 @@
+# Live At
+https://nikhilkyumar.vercel.app/
+
 # Nikhil Kumar — Personal Website
 
 A responsive, editorial-style personal website built with **Next.js App Router, TypeScript, Tailwind CSS 4, and Lucide icons**. It has two purposes: a clear portfolio for recruiters and a personal home for other builders, curious people, competitive programmers, and AI/ML practitioners.
